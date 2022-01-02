@@ -1,6 +1,10 @@
 # DevHomework
 Contains Homework Repos for GT-FSD 
 
+Github live page url
+https://binarybitbytes.github.io/DevHomework/
+
+
 -------HEADER-------
 User: Miles Colon
 Date Created: 12/19/2021 , Sunday 20:23
