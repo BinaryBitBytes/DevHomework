@@ -18,6 +18,9 @@ This is my first readme file. I do like this header format , I need suggestions 
 This readme file is apart of my submission of the course home work for the Georgia Tech Boot Camp Spot Full Stack Development program.
 This file is composed of HTML, CSS, and 7 images. Following is a list of each of the file names along with extensions.
 
+![image](https://user-images.githubusercontent.com/94703967/147864492-ed7a5ab5-a663-4765-898a-c70451b89e1c.png)
+
+
 *----Contents----
 *~Develop Prework/Lesson/Develop/
 *../assets/
